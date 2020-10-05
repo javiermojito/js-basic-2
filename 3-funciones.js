@@ -27,8 +27,7 @@ saludarEstudiante("Oscar");
 //Plantillas literales
 function saludarEstudianteConPlantilla(estudiante){
     //console.log(`Hola estudiante ${estudiante} recordemos que eres ${estudiante}`);
-    console.log(`Hola estudiante ${estudiante}
-recordemos que eres ${estudiante}`);
+    console.log(`Hola estudiante ${estudiante}recordemos que eres ${estudiante}`);
 }
 
 saludarEstudianteConPlantilla("Pepo");
