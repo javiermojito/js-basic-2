@@ -21,11 +21,10 @@ x = 1;
 
 console.log(x);
 
-//Consta no se puede reinicializar, tampoco se puede reasignar (Global)
+//Const no se puede reinicializar, tampoco se puede reasignar (Global)
 const y = 1;
 
 console.log(y);
-
 
 //Arreglos
 var vegetales = ["Tomate", "Lechuga"];
