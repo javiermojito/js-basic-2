@@ -18,7 +18,7 @@ switch (/*Lo que vayamos a evaluar*/) {
 
 //Ejemplos
 
-var cm = 500;
+var cm = 1000;
 switch(cm){
     case 100:
         console.log("Tengo un metro");

@@ -23,7 +23,6 @@ else{
 
 //Nuestro bar DevShots
 //Todo el que tenga 18, tiene derecho a un shot gratis.
-
 var edad = 20;
 
 if(edad === 18){
@@ -33,7 +32,7 @@ else if(edad > 18){
     console.log("Bienvenido a DevShots");
 }
 else if(edad > 40){
-    console.log("Bienvenido señoooora DevShots");
+    console.log("Bienvenido señoooor@ a DevShots");
 }
 else{
     console.log("No puede entrar.");
