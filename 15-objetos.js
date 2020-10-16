@@ -143,7 +143,7 @@ console.log(nombreEnMayuscula(persona.nombre));
 ///////
 
 
-/*
+/* 
 function nombreEnMayuscula(personaObj){
     var nombre = personaObj.nombre;
     var edad = personaObj.edad;
@@ -151,7 +151,8 @@ function nombreEnMayuscula(personaObj){
     return nombre.toUpperCase();
 }
 */
-/*
+
+/* 
 function nombreEnMayuscula(personaObj){
     var { nombre } = personaObj;
     var { edad } = personaObj;
@@ -211,8 +212,9 @@ var persona = {
         artes: true,
         deportes: false,
         ciencias: true,
-        literatura: false,
+        literatura: false
     }
 }
 
+console.log(persona.hobbies.artes);
 console.log(persona.hobbies);

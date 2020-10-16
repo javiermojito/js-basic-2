@@ -9,6 +9,7 @@ console.log(z);
 
 //Decimales -> 17
 var x = 0.1 + 0.2;
+console.log(x);
 
 //ejemplo
 var precioDeVino = 200.3;
